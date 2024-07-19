@@ -69,4 +69,4 @@ We are using all self hosted AI models, & have a large number of machines.
 
 so we can just run the machines on constantly, and have assistants regularly.
 
-## 
+## WORK IN PROGRESS
