@@ -1,4 +1,3 @@
-# gitea-assistants
 My intention is to learn more about AI by creating a python based agent that can interact with your Gitea environment. 
 
 The agents should have a comparable level of “read write access” within the Gitea instance.
